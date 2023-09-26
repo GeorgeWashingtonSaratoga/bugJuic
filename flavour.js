@@ -6,10 +6,10 @@ var flavourList = ['Piss','Piss 2','Peepee','Shid','Bug Nut','Bug Jazz ','Centur
 var btn = document.querySelector("flavourWheel");
     var out = document.getElementById("flavourOutput");
     
-    console.output("bum");
+    console.log("bum");
     btn.addEventListener("click", getWord);
 
-    console.output("cum");
+    console.log("cum");
    
     function getWord(){
      
