@@ -63,7 +63,7 @@ var btn = document.getElementById("flavourWheel");
       
       for (let i = 0; i < categList.length; i++) {
         for (let h = 0; h < categList[i].length; h++) {
-          if(categlist[i].includes(wordNum)){
+          if(categList[i].includes(wordNum)){
             catNum.push(catName[i])
           }
         }
